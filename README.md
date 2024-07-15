@@ -1,4 +1,4 @@
-# Desafio_LIGHTHOUSE_CD
+# LH_CD_GUSTAVODEININGER
 
 Em um ambiente com python instalado e preparado para utilizar o jupyternotebook, siga os seguintes passos:
 
